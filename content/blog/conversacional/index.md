@@ -1,5 +1,6 @@
 ---
 title: Prácticas conversacionales
+date: "2019-12-01T22:12:03.284Z"
 description: Practiquemos el idioma hablando en francés
 ---
 

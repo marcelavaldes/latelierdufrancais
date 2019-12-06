@@ -1,5 +1,6 @@
 ---
 title: Lecciones online
+date: "2019-12-01T22:12:03.284Z"
 description: Sesiones flexibles según tus tiempos e intereses
 ---
 
