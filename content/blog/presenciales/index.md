@@ -1,9 +1,9 @@
 ---
 title: Lecciones presenciales
-description: Te compartimos la información sobre las clases particulares presenciales de Francés para *niveles A1, A2, B1, B2* en Talca.
+description: Aprende a tu ritmo con clases personalizadas
 ---
 
-**Bienvenue !** Te compartimos la información sobre las clases particulares presenciales de Francés para *niveles A1, A2, B1, B2* en Talca.
+**Bienvenue !** Te compartimos la información sobre las clases particulares presenciales de francés para *niveles A1, A2, B1, B2* en Talca.
 Puedes optar por un curso de duración variable o intensivo, *desde principiante hasta avanzado*, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
 
 ## Método participativo con tutoría personalizada
@@ -72,5 +72,5 @@ Se debe realizar el pago por el total de las horas requeridas antes de dar inici
 - Las tarifas son las mismas para todos los niveles.
 - Los valores incluyen material de estudio impreso y digital.
 - Recordar que una aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
-- El horario disponible para las clases es de Lunes a Viernes de 09:00 a 20:00 h.
+- El horario disponible para las clases es de lunes a viernes de 09:00 a 20:00 h.
 - La ubicación del lugar se entrega directamente a las personas interesadas.
