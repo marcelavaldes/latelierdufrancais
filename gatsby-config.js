@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: `L'atelier du Français`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    author: `Marcela Valdés Rojas`,
+    description: `L'atelier du francais es un proyecto autogestionado que promovemos e incentiva el idioma y las expresiones multiculturales.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `latelierdufrancais`,
     },
   },
   plugins: [
