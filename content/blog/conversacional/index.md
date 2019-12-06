@@ -5,7 +5,7 @@ description: Practiquemos el idioma hablando en francés
 ---
 
 **Bienvenue !** Te compartimos la información sobre las prácticas conversacionales de francés para *niveles A1, A2, B1, B2* en Talca.
-Puedes optar por un curso de duración variable o intensivo, *desde principiante hasta avanzado*, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
+Puedes optar por un curso de duración variable o intensivo, **desde principiante hasta avanzado**, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
 
 ## Método activo con guía colaborativa
 
@@ -13,19 +13,23 @@ Si tienes algún nivel, las *fórmulas rápidas y útiles* te brindarán las her
 
 ### Individual
 
+Fortalece tu aprendizaje y mejora tu pronunciación
+
 |Horas|Valor|
 |---|---|
 |1 | $7.000 |
 
 ### Grupal
 
-##### Dúo (valores incluyen 2 personas)
+Conversaciones perfectas para la vida diaria, el trabajo y los viajes
+
+##### Prácticas para 2 personas
 
 | Horas | Valor |
 | ------ | ------ |
 | 1 | $6.000 |
 
-##### Trío (valores incluyen 3 personas)
+##### Prácticas para 3 personas
 
 | Horas | Valor |
 | ------ | ------ |

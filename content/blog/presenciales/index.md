@@ -5,15 +5,17 @@ description: Aprende a tu ritmo con clases personalizadas
 ---
 
 **Bienvenue !** Te compartimos la información sobre las clases particulares presenciales de francés para *niveles A1, A2, B1, B2* en Talca.
-Puedes optar por un curso de duración variable o intensivo, *desde principiante hasta avanzado*, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
+Puedes optar por un curso de duración variable o intensivo, **desde principiante hasta avanzado**, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
 
 ## Método participativo con tutoría personalizada
 
-La cercanía de una clase particular te permitirá *aprender a tu ritmo* y en las mejores condiciones. Contamos con modalidades para individuos y grupos.
+La cercanía de una clase particular te permitirá **aprender a tu ritmo** y en las mejores condiciones. Contamos con modalidades para individuos y grupos.
 
 ### Individual
 
-|Horas|Valor|
+Aprende un idioma más rápido con guía particular
+
+| Horas| Valor|
 |---|---|
 |1 | $15.000 |
 |5 | $50.000  |
@@ -21,7 +23,9 @@ La cercanía de una clase particular te permitirá *aprender a tu ritmo* y en la
 
 ### Grupal
 
-##### Dúo (valores incluyen 2 personas)
+Únete junto a otros y aprende más por menos
+
+#### Clases para 2 personas
 
 | Horas | Valor |
 | ------ | ------ |
@@ -29,7 +33,7 @@ La cercanía de una clase particular te permitirá *aprender a tu ritmo* y en la
 | 5 | $70.000 |
 | 10 | $140.000 |
 
-#### **Trío (valores incluyen 3 personas)**
+#### Clases para 3 personas
 
 | Horas | Valor |
 | ------ | ------ |
@@ -37,7 +41,7 @@ La cercanía de una clase particular te permitirá *aprender a tu ritmo* y en la
 | 5 | $60.000 |
 | 10 | $120.000 |
 
-### Grupos +3 personas
+#### Grupos +3 personas
 
   Por favor escríbenos para encontrar la mejor opción.
 
@@ -64,7 +68,9 @@ Se debe realizar el pago por el total de las horas requeridas antes de dar inici
 
     Rut: 16.732.177-1
 
-    Tipo de cuenta: Cuenta Rut Banco Estado N° 16732177
+    Tipo de cuenta: Cuenta Rut
+
+    Banco Estado N° 16732177
 
     Correo electrónico: bonjour@latelierdufrancais.cl
 

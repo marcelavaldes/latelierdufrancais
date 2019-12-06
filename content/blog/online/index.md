@@ -5,13 +5,15 @@ description: Sesiones flexibles según tus tiempos e intereses
 ---
 
 **Bienvenue !** Te compartimos la información sobre las clases particulares online de francés para *niveles A1, A2, B1, B2.*
-Puedes optar por un curso personalizado *desde principiante hasta avanzado*, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
+Puedes optar por un curso personalizado **desde principiante hasta avanzado**, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
 
 ## Método interactivo con maestría particular
 
 *La comodidad de tu lugar* te permitirá aprender a tu ritmo y en las mejores condiciones. Contamos con modalidades para individuos y grupos.
 
 ### Individual | Grupal
+
+Modelo flexible que se adapta a las necesidades de formación
 
 |Horas|Valor|
 |---|---|
@@ -32,11 +34,11 @@ Puedes optar por un curso personalizado *desde principiante hasta avanzado*, par
 
 **1. Clase teórico-práctica**
 
-Introducción de contenidos mediante diversos ejercicios prácticos para conocer el idioma en cuanto a gramática, léxica y fonética.
+Introducción de contenidos mediante diversos ejercicios prácticos para conocer la gramática, léxica y fonética del idioma.
 
 **2. Clase conversacional**
 
-Trabajo de contenidos a través de diferentes actividades con el objetivo de reforzar el conocimiento del idioma en cuanto a gramática, léxica y fonética.
+Trabajo de contenidos a través de diferentes actividades con el objetivo de reforzar los conocimiento sobre gramática, léxica y fonética del idioma.
 
 ## Horarios
 
