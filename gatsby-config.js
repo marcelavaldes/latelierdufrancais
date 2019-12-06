@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `L'atelier du Français`,
     author: `Marcela Valdés Rojas`,
-    description: `L'atelier du francais es un proyecto autogestionado que promovemos e incentiva el idioma y las expresiones multiculturales.`,
+    description: `Clases particulares de francés en Talca`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       instagram: `latelierdufrancais`,
