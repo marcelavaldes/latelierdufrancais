@@ -4,8 +4,6 @@ date: "2019-12-01T22:12:03.284Z"
 description: Aprende a tu ritmo con clases personalizadas
 ---
 
-# Lecciones presenciales de francés
-
 **Clases presenciales** para *niveles A1, A2, B1, B2* en Talca.
 Puedes optar por un curso de duración variable o intensivo, *desde principiante hasta avanzado*, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
 

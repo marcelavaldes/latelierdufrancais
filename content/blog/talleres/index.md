@@ -4,8 +4,6 @@ date: "2019-12-01T22:12:03.284Z"
 description: Actividades multiculturales
 ---
 
-# Talleres grupales de francés
-
 **Sesiones grupales** para *niveles A1, A2, B1, B2* en Talca.
 Puedes optar por un taller de duración limitada o intensivo, *desde principiante hasta avanzado*, con fines personales, turísticos, académicos o profesionales.
 
@@ -21,27 +19,30 @@ Contamos con modalidades para grupos pequeños y grandes.
 
 ## Talleres en curso
 
-**Cours au printemps | Nivel Básico A.2.2**
+**Cours au printemps | nivel básico A.2.2**
 - Programa: 4 sesiones | 2 horas semanales
 - Fecha: viernes de diciembre
 - Horario: 17:00 a 19:00 h
-- Lugar: Espacio1414 1 y 2 Oriente 7 y media Norte #36 Talca
+- Inicio: 06 de diciembre 2019
+- Lugar: Espacio1414 | 1 y 2 Oriente 7 y media Norte #36 Talca
 - Valor: $70.000 (incluye material de estudio impreso y digital)
 
 ## Próximos talleres a realizar
 
-**Taller intensivo de verano | Nivel Básico A.1.1**
+**Taller intensivo de verano | nivel básico A.1.1**
 - Programa: 4 sesiones | 2 horas semanales
 - Fecha: martes y jueves de enero
 - Horario: 19:00 a 20:00 h
-- Lugar: Café Lingo's 1 Poniente 5 Norte #1610 Talca
+- Inicio: 07 de enero 2020
+- Lugar: Café Lingo's | 1 Poniente 5 Norte #1610 Talca
 - Valor: $80.000 (incluye material de estudio impreso y digital)
 
-**Cours d'été" | Nivel Básico A.1.2**
+**Cours d'été" | nivel básico A.1.2**
 - Programa: 4 sesiones | 2 horas semanales
 - Fecha: martes y jueves de enero
 - Horario: 18:00 a 19:00 h
-- Lugar: Café Lingo's 1 Poniente 5 Norte #1610 Talca
+- Inicio: 07 de enero 2020
+- Lugar: Café Lingo's | 1 Poniente 5 Norte #1610 Talca
 - Valor: $60.000 (incluye material de estudio impreso y digital)
 
 ## Forma de pago

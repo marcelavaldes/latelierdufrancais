@@ -4,8 +4,6 @@ date: "2019-12-01T22:12:03.284Z"
 description: Sesiones flexibles según tus tiempos e intereses
 ---
 
-# Lecciones de francés online
-
 **Clases online** para *niveles A1, A2, B1, B2.*
 Puedes optar por un curso personalizado *desde principiante hasta avanzado*, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
 
