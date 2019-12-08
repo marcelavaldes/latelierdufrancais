@@ -2,6 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
+import lectora from "../../content/assets/lectora.svg"
 import "./layout.css"
 
 class Layout extends React.Component {
@@ -63,10 +64,31 @@ class Layout extends React.Component {
       >
         <header>{header}</header>
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <footer
+          style={{
+            display: "flex",
+          }}
+        >
+          <div
+            style={{
+              marginTop: "auto",
+            }}
+          >
+            © {new Date().getFullYear()}, Built with
+            {` `}
+            <a href="https://www.gatsbyjs.org">Gatsby</a>
+          </div>
+          <img
+            src={lectora}
+            width={240}
+            style={{
+              marginLeft: "auto",
+              marginBottom: "-40px",
+              // float: "right",
+              // position: "absolute",
+              transform: "scaleX(-1)",
+            }}
+          />
         </footer>
       </div>
     )
