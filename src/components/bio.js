@@ -56,10 +56,11 @@ const Bio = () => {
         // />
       }{" "}
       <p>
-        Clases particulares de francés.
+        Creado por <strong>{author}</strong> quien vive y trabaja en Chile
+        incentivando el aprendizaje del idioma francés.
         {` `}
         <a href={`https://instagram.com/${social.instagram}`}>
-          Puedes visitarnos en Instagram
+          Puedes seguir este proyecto en Instagram
         </a>
       </p>
     </div>
