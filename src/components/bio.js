@@ -56,11 +56,10 @@ const Bio = () => {
         // />
       }{" "}
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Clases particulares de francés.
         {` `}
         <a href={`https://instagram.com/${social.instagram}`}>
-          You should follow him on Instagram
+          Puedes visitarnos en Instagram
         </a>
       </p>
     </div>
