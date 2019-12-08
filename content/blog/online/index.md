@@ -4,16 +4,17 @@ date: "2019-12-01T22:12:03.284Z"
 description: Sesiones flexibles según tus tiempos e intereses
 ---
 
-**Bienvenue !** Te compartimos la información sobre las clases particulares online de francés para *niveles A1, A2, B1, B2.*
-Puedes optar por un curso personalizado **desde principiante hasta avanzado**, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
+# Lecciones de francés online
+
+**Clases online** para *niveles A1, A2, B1, B2.*
+Puedes optar por un curso personalizado *desde principiante hasta avanzado*, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
 
 ## Método interactivo con maestría particular
 
-*La comodidad de tu lugar* te permitirá aprender a tu ritmo y en las mejores condiciones. Contamos con modalidades para individuos y grupos.
+**La comodidad de tu lugar** posibilitará aprender sin limitantes de distancia o geografía. 
+Contamos con modalidades para individuos y grupos.
 
-### Individual | Grupal
-
-Modelo flexible que se adapta a las necesidades de formación
+#### Individual | Grupal
 
 |Horas|Valor|
 |---|---|
@@ -34,11 +35,11 @@ Modelo flexible que se adapta a las necesidades de formación
 
 **1. Clase teórico-práctica**
 
-Introducción de contenidos mediante diversos ejercicios prácticos para conocer la gramática, léxica y fonética del idioma.
+Introducción de contenidos mediante diversos ejercicios prácticos para conocer gramática, léxica y fonética.
 
 **2. Clase conversacional**
 
-Trabajo de contenidos a través de diferentes actividades con el objetivo de reforzar los conocimiento sobre gramática, léxica y fonética del idioma.
+Trabajo de contenidos a través de diferentes actividades con el objetivo de reforzar gramática, léxica y fonética.
 
 ## Horarios
 
@@ -52,18 +53,20 @@ Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se re
 
 Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
 
-    Nombre: Marcela Valdés Rojas
+Nombre: Marcela Valdés Rojas
 
-    Rut: 16.732.177-1
+Rut: 16.732.177-1
 
-    Tipo de cuenta: Cuenta Rut Banco Estado N° 16732177
+Tipo de cuenta: Cuenta Rut
 
-    Correo electrónico: bonjour@latelierdufrancais.cl
+Banco Estado N° 16732177
+
+Correo electrónico: bonjour@latelierdufrancais.cl
 
 ## Consideraciones
 
 - Las tarifas son las mismas para todos los niveles.
 - Los valores incluyen material de estudio digital.
 - Recordar que una aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
-- El horario disponible para las clases es de lunes a viernes de 09:00 a 22:00 h.
+- El horario disponible para las clases es de Lunes a Viernes de 09:00 a 22:00 h.
 - Las sesiones se realizan vía Skype u otra plataforma según la preferencia de cada persona.

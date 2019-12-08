@@ -4,38 +4,36 @@ date: "2019-12-01T22:12:03.284Z"
 description: Practiquemos el idioma hablando en francés
 ---
 
-**Bienvenue !** Te compartimos la información sobre las prácticas conversacionales de francés para *niveles A1, A2, B1, B2* en Talca.
-Puedes optar por un curso de duración variable o intensivo, **desde principiante hasta avanzado**, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
+# Lecciones conversacionales de francés
+
+**Clases conversacionales** para *niveles A1, A2, B1, B2* en Talca.
+Puedes optar por un curso de duración variable o intensivo, *desde principiante hasta avanzado*, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
 
 ## Método activo con guía colaborativa
 
-Si tienes algún nivel, las *fórmulas rápidas y útiles* te brindarán las herramientas para adquirir mayor dominio del idioma. Contamos con modalidades para individuos y grupos.
+Si tienes algún nivel, las **fórmulas rápidas y útiles** te brindarán las herramientas para adquirir mayor dominio del idioma. Contamos con modalidades para individuos y grupos.
 
-### Individual
-
-Fortalece tu aprendizaje y mejora tu pronunciación
+#### Individual
 
 |Horas|Valor|
 |---|---|
 |1 | $7.000 |
 
-### Grupal
+#### Grupal
 
-Conversaciones perfectas para la vida diaria, el trabajo y los viajes
-
-##### Prácticas para 2 personas
+**para 2 personas**
 
 | Horas | Valor |
 | ------ | ------ |
 | 1 | $6.000 |
 
-##### Prácticas para 3 personas
+**para 3 personas**
 
 | Horas | Valor |
 | ------ | ------ |
 | 1 | $5.000 |
 
-valores por más de una hora
+*valores por más de una hora*
 Por favor escríbenos para encontrar la mejor opción.
 
 ## Metodología
@@ -54,17 +52,19 @@ Realizamos las sesiones cuando se requieran, procurando un aviso con al menos 48
 
 Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
 
-    Nombre: Marcela Valdés Rojas
+Nombre: Marcela Valdés Rojas
 
-    Rut: 16.732.177-1
+Rut: 16.732.177-1
 
-    Tipo de cuenta: Cuenta Rut Banco Estado N° 16732177
+Tipo de cuenta: Cuenta Rut
 
-    Correo electrónico: bonjour@latelierdufrancais.cl
+Banco Estado N° 16732177
+
+Correo electrónico: bonjour@latelierdufrancais.cl
 
 ## Consideraciones
 
 - Las tarifas son las mismas para todos los niveles.
 - Los valores incluyen material de estudio impreso.
 - Recordar que una aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
-- El horario disponible para las clases es de lunes a viernes de 09:00 a 20:00 h.
+- El horario disponible para las clases es de Lunes a Viernes de 09:00 a 20:00 h.

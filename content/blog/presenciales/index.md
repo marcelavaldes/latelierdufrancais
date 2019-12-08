@@ -4,28 +4,27 @@ date: "2019-12-01T22:12:03.284Z"
 description: Aprende a tu ritmo con clases personalizadas
 ---
 
-**Bienvenue !** Te compartimos la información sobre las clases particulares presenciales de francés para *niveles A1, A2, B1, B2* en Talca.
-Puedes optar por un curso de duración variable o intensivo, **desde principiante hasta avanzado**, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
+# Lecciones presenciales de francés
+
+**Clases presenciales** para *niveles A1, A2, B1, B2* en Talca.
+Puedes optar por un curso de duración variable o intensivo, *desde principiante hasta avanzado*, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
 
 ## Método participativo con tutoría personalizada
 
-La cercanía de una clase particular te permitirá **aprender a tu ritmo** y en las mejores condiciones. Contamos con modalidades para individuos y grupos.
+La cercanía de una clase particular te permitirá **aprender a tu ritmo** y en las mejores condiciones.
+Contamos con modalidades para individuos y grupos.
 
-### Individual
+#### Individual
 
-Aprende un idioma más rápido con guía particular
-
-| Horas| Valor|
+|Horas|Valor|
 |---|---|
 |1 | $15.000 |
 |5 | $50.000  |
 |10 | $100.000 |
 
-### Grupal
+#### Grupal
 
-Únete junto a otros y aprende más por menos
-
-#### Clases para 2 personas
+**para 2 personas**
 
 | Horas | Valor |
 | ------ | ------ |
@@ -33,7 +32,7 @@ Aprende un idioma más rápido con guía particular
 | 5 | $70.000 |
 | 10 | $140.000 |
 
-#### Clases para 3 personas
+**para 3 personas**
 
 | Horas | Valor |
 | ------ | ------ |
@@ -64,20 +63,20 @@ Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se re
 
 Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
 
-    Nombre: Marcela Valdés Rojas
+Nombre: Marcela Valdés Rojas
 
-    Rut: 16.732.177-1
+Rut: 16.732.177-1
 
-    Tipo de cuenta: Cuenta Rut
+Tipo de cuenta: Cuenta Rut
 
-    Banco Estado N° 16732177
+Banco Estado N° 16732177
 
-    Correo electrónico: bonjour@latelierdufrancais.cl
+Correo electrónico: bonjour@latelierdufrancais.cl
 
 ## Consideraciones
 
 - Las tarifas son las mismas para todos los niveles.
 - Los valores incluyen material de estudio impreso y digital.
 - Recordar que una aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
-- El horario disponible para las clases es de lunes a viernes de 09:00 a 20:00 h.
+- El horario disponible para las clases es de Lunes a Viernes de 09:00 a 20:00 h.
 - La ubicación del lugar se entrega directamente a las personas interesadas.
