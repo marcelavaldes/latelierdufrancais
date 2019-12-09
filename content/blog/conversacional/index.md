@@ -1,7 +1,7 @@
 ---
-title: Prácticas conversacionales
+title: Practiquemos en la ciudad
 date: "2019-12-01T22:12:03.284Z"
-description: Practiquemos el idioma hablando en francés
+description: Diferentes locaciones y diversas temáticas
 ---
 
 <br />
