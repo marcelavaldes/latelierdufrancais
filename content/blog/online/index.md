@@ -4,20 +4,8 @@ date: "2019-12-01T22:12:03.284Z"
 description: Sesiones flexibles según tus tiempos e intereses
 ---
 
-## Método interactivo con maestría particular
-
 **La comodidad de tu lugar** te posibilitará aprender sin limitantes de distancia o geografía. 
 Contamos con modalidades para individuos y grupos.
-
-#### Individual | Grupal
-
-|Horas|Valor|
-|---|---|
-|1 | $12.000 |
-|5 | $50.000  |
-|10 | $90.000 |
-|15 | $135.000 |
-|20 | $180.000 |
 
 ## Metodología
 
@@ -44,7 +32,17 @@ Para quienes prefieren organizarse con anticipación, elaboramos un programa con
 **Horario libre:**
 Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se requieran, procurando un aviso con al menos 12 horas de antelación.
 
-## Forma de pago
+## Valores y medios de pago
+
+#### Individual | Grupal
+
+|Horas|Valor|
+|---|---|
+|1 | $12.000 |
+|5 | $50.000  |
+|10 | $90.000 |
+|15 | $135.000 |
+|20 | $180.000 |
 
 Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
 

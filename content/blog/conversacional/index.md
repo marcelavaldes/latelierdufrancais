@@ -4,9 +4,21 @@ date: "2019-12-01T22:12:03.284Z"
 description: Practiquemos el idioma hablando en francés
 ---
 
-## Método activo con guía colaborativa
-
 Si tienes algún nivel, las **fórmulas rápidas y útiles** te brindarán las herramientas para adquirir mayor dominio del idioma. Contamos con modalidades para individuos y grupos.
+
+## Metodología
+
+- Las sesiones consideran como mínimo una hora de clase.
+- El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
+- Durante las sesiones se trabaja gramática, léxica y fonética.
+- Todas las sesiones se refuerzan con material de apoyo impreso.
+- La locación de las sesiones contempla lugares públicos en la ciudad de Talca, tales como café, biblioteca, museo, librería, centro comercial, supermercado, restaurant, galería de arte, estación de trenes, terminal de buses, hospital, universidad, plaza o la calle.
+
+## Horarios
+
+Realizamos las sesiones cuando se requieran, procurando un aviso con al menos 48 horas de antelación.
+
+## Valores y medios de pago
 
 #### Individual
 
@@ -30,21 +42,6 @@ Si tienes algún nivel, las **fórmulas rápidas y útiles** te brindarán las h
 
 *valores por más de una hora*
 Por favor escríbenos para encontrar la mejor opción.
-
-## Metodología
-
-- Las sesiones consideran como mínimo una hora de clase.
-- El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
-- Durante las sesiones se trabaja gramática, léxica y fonética.
-- Todas las sesiones se refuerzan con material de apoyo impreso.
-- La locación de las sesiones contempla lugares públicos en la ciudad de Talca, tales como café, biblioteca, museo, librería, centro comercial, supermercado, restaurant, galería de arte, estación de trenes, terminal de buses, hospital, universidad, plaza o la calle.
-
-## Horarios
-
-Realizamos las sesiones cuando se requieran, procurando un aviso con al menos 48 horas de antelación.
-
-## Forma de pago
-
 Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
 
 Nombre: Marcela Valdés Rojas
