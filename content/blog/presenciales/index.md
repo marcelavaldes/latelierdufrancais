@@ -11,7 +11,6 @@ Contamos con modalidades para individuos y grupos.
 
 ## Metodología
 
-- Las sesiones consideran como mínimo una hora de clase semanal.
 - El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
 - Durante todas las sesiones se trabaja lectura, escritura y pronunciación.
 - Todas las sesiones se refuerzan con material complementario vía correo electrónico.

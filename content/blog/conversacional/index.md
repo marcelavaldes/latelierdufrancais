@@ -10,7 +10,6 @@ Si tienes algún nivel, las **fórmulas rápidas y útiles** te brindarán las h
 
 ## Metodología
 
-- Las sesiones consideran como mínimo una hora de clase.
 - El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
 - Durante las sesiones se trabaja gramática, léxica y fonética.
 - Todas las sesiones se refuerzan con material de apoyo impreso.
