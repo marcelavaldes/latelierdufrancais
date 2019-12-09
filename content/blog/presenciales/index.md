@@ -28,7 +28,7 @@ Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se re
 
 #### Individual
 
-|Horas|Valor|
+|horas|valor|
 |---|---|
 |1 | $15.000 |
 |5 | $50.000  |
@@ -38,7 +38,7 @@ Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se re
 
 **para 2 personas**
 
-| Horas | Valor |
+| horas | valor |
 | ------ | ------ |
 | 1 | $20.000 |
 | 5 | $70.000 |
@@ -46,7 +46,7 @@ Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se re
 
 **para 3 personas**
 
-| Horas | Valor |
+| horas | valor |
 | ------ | ------ |
 | 1 | $15.000 |
 | 5 | $60.000 |

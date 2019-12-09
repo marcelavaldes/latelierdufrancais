@@ -38,7 +38,7 @@ Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se re
 
 #### Individual | Grupal
 
-|Horas|Valor|
+|horas|valor|
 |---|---|
 |1 | $12.000 |
 |5 | $50.000  |

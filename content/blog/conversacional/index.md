@@ -24,7 +24,7 @@ Realizamos las sesiones cuando se requieran, procurando un aviso con al menos 48
 
 #### Individual
 
-|Horas|Valor|
+|horas|valor|
 |---|---|
 |1 | $7.000 |
 
@@ -32,13 +32,13 @@ Realizamos las sesiones cuando se requieran, procurando un aviso con al menos 48
 
 **para 2 personas**
 
-| Horas | Valor |
+| horas | valor |
 | ------ | ------ |
 | 1 | $6.000 |
 
 **para 3 personas**
 
-| Horas | Valor |
+| horas | valor |
 | ------ | ------ |
 | 1 | $5.000 |
 
