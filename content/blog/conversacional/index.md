@@ -4,8 +4,6 @@ date: "2019-12-01T22:12:03.284Z"
 description: Practiquemos el idioma hablando en francés
 ---
 
-## Método activo con guía colaborativa
-
 Si tienes algún nivel, las **fórmulas rápidas y útiles** te brindarán las herramientas para adquirir mayor dominio del idioma. Contamos con modalidades para individuos y grupos.
 
 #### Individual
