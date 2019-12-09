@@ -6,7 +6,8 @@ description: Diferentes locaciones y diversas temáticas
 
 <br />
 
-Si tienes algún nivel, las **fórmulas rápidas y útiles** te brindarán las herramientas para adquirir mayor dominio del idioma. Contamos con modalidades para individuos y grupos.
+Esta modalidad consiste en reunirnos en lugares públicos de la ciudad para poner a prueba
+nuestros conocimientos en contextos reales. Aquí aprenderemos fórmulas rápidas y útiles.
 
 ## Metodología
 
