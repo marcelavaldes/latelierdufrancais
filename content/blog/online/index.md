@@ -4,12 +4,9 @@ date: "2019-12-01T22:12:03.284Z"
 description: Sesiones flexibles según tus tiempos e intereses
 ---
 
-**Clases online** para *niveles A1, A2, B1, B2.*
-Puedes optar por un curso personalizado *desde principiante hasta avanzado*, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
-
 ## Método interactivo con maestría particular
 
-**La comodidad de tu lugar** posibilitará aprender sin limitantes de distancia o geografía. 
+**La comodidad de tu lugar** te posibilitará aprender sin limitantes de distancia o geografía. 
 Contamos con modalidades para individuos y grupos.
 
 #### Individual | Grupal
@@ -65,6 +62,6 @@ Correo electrónico: bonjour@latelierdufrancais.cl
 
 - Las tarifas son las mismas para todos los niveles.
 - Los valores incluyen material de estudio digital.
-- Recordar que una aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
+- Recordar que un aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
 - El horario disponible para las clases es de Lunes a Viernes de 09:00 a 22:00 h.
 - Las sesiones se realizan vía Skype u otra plataforma según la preferencia de cada persona.

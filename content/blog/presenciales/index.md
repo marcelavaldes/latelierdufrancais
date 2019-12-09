@@ -4,9 +4,6 @@ date: "2019-12-01T22:12:03.284Z"
 description: Aprende a tu ritmo con clases personalizadas
 ---
 
-**Clases presenciales** para *niveles A1, A2, B1, B2* en Talca.
-Puedes optar por un curso de duración variable o intensivo, *desde principiante hasta avanzado*, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
-
 ## Método participativo con tutoría personalizada
 
 La cercanía de una clase particular te permitirá **aprender a tu ritmo** y en las mejores condiciones.
@@ -75,6 +72,6 @@ Correo electrónico: bonjour@latelierdufrancais.cl
 
 - Las tarifas son las mismas para todos los niveles.
 - Los valores incluyen material de estudio impreso y digital.
-- Recordar que una aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
+- Recordar que un aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
 - El horario disponible para las clases es de Lunes a Viernes de 09:00 a 20:00 h.
 - La ubicación del lugar se entrega directamente a las personas interesadas.

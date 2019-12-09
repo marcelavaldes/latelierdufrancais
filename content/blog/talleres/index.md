@@ -4,9 +4,6 @@ date: "2019-12-01T22:12:03.284Z"
 description: Actividades multiculturales
 ---
 
-**Sesiones grupales** para *niveles A1, A2, B1, B2* en Talca.
-Puedes optar por un taller de duración limitada o intensivo, *desde principiante hasta avanzado*, con fines personales, turísticos, académicos o profesionales.
-
 ## Método de intercambio social
 
 El trabajo en equipo es una herramienta fundamental para aprender más y mejor. La interacción es lo que más hace aprender.
