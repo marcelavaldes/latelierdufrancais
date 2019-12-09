@@ -14,3 +14,8 @@ a {
 body {
   background-color: #c6d8ff;
 }
+
+table {
+  width: auto;
+  line-height: 1em;
+}
