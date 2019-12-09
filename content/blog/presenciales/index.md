@@ -50,7 +50,7 @@ Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se re
 | 5 | $60.000 |
 | 10 | $120.000 |
 
-#### Grupos +3 personas
+**grupos +3 personas**
 Por favor escríbenos para encontrar la mejor opción.
 
 Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:

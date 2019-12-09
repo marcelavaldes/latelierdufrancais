@@ -12,7 +12,7 @@ Si tienes algún nivel, las **fórmulas rápidas y útiles** te brindarán las h
 - El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
 - Durante las sesiones se trabaja gramática, léxica y fonética.
 - Todas las sesiones se refuerzan con material de apoyo impreso.
-- La locación de las sesiones contempla lugares públicos en la ciudad, tales como **café, biblioteca, museo, librería, centro comercial, supermercado, restaurant, galería de arte, estación de trenes, terminal de buses, hospital, universidad, plaza o la calle.**
+- La locación de las sesiones contempla lugares públicos en la ciudad, tales como *café, biblioteca, museo, librería, centro comercial, supermercado, restaurant, galería de arte, estación de trenes, terminal de buses, hospital, universidad, plaza o la calle.*
 
 ## Horarios
 
