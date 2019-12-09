@@ -4,9 +4,6 @@ date: "2019-12-01T22:12:03.284Z"
 description: Practiquemos el idioma hablando en francés
 ---
 
-**Clases conversacionales** para *niveles A1, A2, B1, B2* en Talca.
-Puedes optar por un curso de duración variable o intensivo, *desde principiante hasta avanzado*, para una o varias personas, con fines personales, turísticos, académicos o profesionales.
-
 ## Método activo con guía colaborativa
 
 Si tienes algún nivel, las **fórmulas rápidas y útiles** te brindarán las herramientas para adquirir mayor dominio del idioma. Contamos con modalidades para individuos y grupos.
@@ -64,5 +61,5 @@ Correo electrónico: bonjour@latelierdufrancais.cl
 
 - Las tarifas son las mismas para todos los niveles.
 - Los valores incluyen material de estudio impreso.
-- Recordar que una aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
+- Recordar que un aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
 - El horario disponible para las clases es de Lunes a Viernes de 09:00 a 20:00 h.
