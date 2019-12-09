@@ -11,6 +11,8 @@ h6 {
 
 a {
   color: #72195a;
+  text-decoration: none;
+  box-shadow: none;
 }
 
 body {

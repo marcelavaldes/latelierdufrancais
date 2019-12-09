@@ -58,14 +58,27 @@ class Layout extends React.Component {
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
-          maxWidth: rhythm(24),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
-        <header>{header}</header>
-        <main>{children}</main>
+        <div
+          style={{
+            marginLeft: "auto",
+            marginRight: "auto",
+            maxWidth: rhythm(24),
+            backgroundColor: "#ffffff",
+            padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+            marginBottom: rhythm(1.5),
+          }}
+        >
+          <header>{header}</header>
+          <main>{children}</main>
+        </div>
         <footer
           style={{
+            marginLeft: `auto`,
+            marginRight: `auto`,
+            maxWidth: rhythm(24),
             display: "flex",
           }}
         >
@@ -83,9 +96,7 @@ class Layout extends React.Component {
             width={240}
             style={{
               marginLeft: "auto",
-              marginBottom: "-40px",
-              // float: "right",
-              // position: "absolute",
+              marginBottom: rhythm(-1.5),
               transform: "scaleX(-1)",
             }}
           />
