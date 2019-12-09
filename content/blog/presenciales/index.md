@@ -3,7 +3,7 @@ title: Lecciones presenciales
 date: "2019-12-01T22:12:03.284Z"
 description: Aprende a tu ritmo con clases personalizadas
 ---
-
+<br />
 La cercanía de una clase particular te permitirá **aprender a tu ritmo** y en las mejores condiciones.
 Contamos con modalidades para individuos y grupos.
 

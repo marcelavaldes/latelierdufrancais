@@ -3,7 +3,7 @@ title: Talleres comunitarios
 date: "2019-12-01T22:12:03.284Z"
 description: Actividades multiculturales
 ---
-
+<br />
 El trabajo en equipo es una herramienta fundamental para aprender más y mejor. La interacción es lo que más hace aprender.
 Contamos con modalidades para grupos pequeños y grandes.
 
