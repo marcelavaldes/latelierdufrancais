@@ -3,7 +3,9 @@ title: Lecciones online
 date: "2019-12-01T22:12:03.284Z"
 description: Sesiones flexibles según tus tiempos e intereses
 ---
+
 <br />
+
 **La comodidad de tu lugar** te posibilitará aprender sin limitantes de distancia o geografía. 
 Contamos con modalidades para individuos y grupos.
 
