@@ -12,7 +12,7 @@ Si tienes algún nivel, las **fórmulas rápidas y útiles** te brindarán las h
 - El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
 - Durante las sesiones se trabaja gramática, léxica y fonética.
 - Todas las sesiones se refuerzan con material de apoyo impreso.
-- La locación de las sesiones contempla lugares públicos en la ciudad de Talca, tales como café, biblioteca, museo, librería, centro comercial, supermercado, restaurant, galería de arte, estación de trenes, terminal de buses, hospital, universidad, plaza o la calle.
+- La locación de las sesiones contempla lugares públicos en la ciudad, tales como **café, biblioteca, museo, librería, centro comercial, supermercado, restaurant, galería de arte, estación de trenes, terminal de buses, hospital, universidad, plaza o la calle.**
 
 ## Horarios
 
@@ -40,8 +40,9 @@ Realizamos las sesiones cuando se requieran, procurando un aviso con al menos 48
 | ------ | ------ |
 | 1 | $5.000 |
 
-*valores por más de una hora*
+**valores por más de una hora**
 Por favor escríbenos para encontrar la mejor opción.
+
 Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
 
 Nombre: Marcela Valdés Rojas
@@ -59,4 +60,4 @@ Correo electrónico: bonjour@latelierdufrancais.cl
 - Las tarifas son las mismas para todos los niveles.
 - Los valores incluyen material de estudio impreso.
 - Recordar que un aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
-- El horario disponible para las clases es de Lunes a Viernes de 09:00 a 20:00 h.
+- El horario disponible para las clases es de lunes a viernes de 09:00 a 20:00 h.

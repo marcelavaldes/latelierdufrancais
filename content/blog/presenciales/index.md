@@ -7,7 +7,6 @@ description: Aprende a tu ritmo con clases personalizadas
 La cercanía de una clase particular te permitirá **aprender a tu ritmo** y en las mejores condiciones.
 Contamos con modalidades para individuos y grupos.
 
-
 ## Metodología
 
 - Las sesiones consideran como mínimo una hora de clase semanal.
@@ -52,7 +51,6 @@ Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se re
 | 10 | $120.000 |
 
 #### Grupos +3 personas
-
 Por favor escríbenos para encontrar la mejor opción.
 
 Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
@@ -72,5 +70,5 @@ Correo electrónico: bonjour@latelierdufrancais.cl
 - Las tarifas son las mismas para todos los niveles.
 - Los valores incluyen material de estudio impreso y digital.
 - Recordar que un aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
-- El horario disponible para las clases es de Lunes a Viernes de 09:00 a 20:00 h.
+- El horario disponible para las clases es de lunes a viernes de 09:00 a 20:00 h.
 - La ubicación del lugar se entrega directamente a las personas interesadas.
