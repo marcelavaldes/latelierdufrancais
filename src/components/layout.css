@@ -5,6 +5,8 @@ h4,
 h5,
 h6 {
   color: #72195a;
+  font-family: Montserrat, sans-serif;
+  word-wrap: normal;
 }
 
 a {
