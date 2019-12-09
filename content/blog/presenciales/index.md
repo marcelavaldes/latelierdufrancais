@@ -7,6 +7,24 @@ description: Aprende a tu ritmo con clases personalizadas
 La cercanía de una clase particular te permitirá **aprender a tu ritmo** y en las mejores condiciones.
 Contamos con modalidades para individuos y grupos.
 
+
+## Metodología
+
+- Las sesiones consideran como mínimo una hora de clase semanal.
+- El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
+- Durante todas las sesiones se trabaja lectura, escritura y pronunciación.
+- Todas las sesiones se refuerzan con material complementario vía correo electrónico.
+
+## Horarios
+
+**Horario fijo:**
+Para quienes prefieren organizarse con anticipación, elaboramos un programa con *días y horarios establecidos.*
+
+**Horario libre:**
+Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se requieran, procurando un aviso con al menos 12 horas de antelación.
+
+## Valores y medios de pago
+
 #### Individual
 
 |Horas|Valor|
@@ -35,24 +53,7 @@ Contamos con modalidades para individuos y grupos.
 
 #### Grupos +3 personas
 
-  Por favor escríbenos para encontrar la mejor opción.
-
-## Metodología
-
-- Las sesiones consideran como mínimo una hora de clase semanal.
-- El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
-- Durante todas las sesiones se trabaja lectura, escritura y pronunciación.
-- Todas las sesiones se refuerzan con material complementario vía correo electrónico.
-
-## Horarios
-
-**Horario fijo:**
-Para quienes prefieren organizarse con anticipación, elaboramos un programa con *días y horarios establecidos.*
-
-**Horario libre:**
-Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se requieran, procurando un aviso con al menos 12 horas de antelación.
-
-## Forma de pago
+Por favor escríbenos para encontrar la mejor opción.
 
 Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
 

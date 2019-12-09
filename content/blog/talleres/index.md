@@ -9,7 +9,7 @@ Contamos con modalidades para grupos pequeños y grandes.
 
 ## Metodología
 
-- Durante todas las sesiones se trabaja lectura, escritura y pronunciación, con dinámicss para ejercitar los contenidos.
+- Durante todas las sesiones se trabaja lectura, escritura y pronunciación, con dinámicas para ejercitar los contenidos.
 - Todas las sesiones se refuerzan con material complementario vía correo electrónico.
 
 ## Talleres en curso
@@ -40,7 +40,7 @@ Contamos con modalidades para grupos pequeños y grandes.
 - Lugar: Café Lingo's | 1 Poniente 5 Norte #1610 Talca
 - Valor: $60.000 (incluye material de estudio impreso y digital)
 
-## Forma de pago
+## Valores y medios de pago
 
 Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
 
