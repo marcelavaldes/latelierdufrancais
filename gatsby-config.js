@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `L'atelier du Français`,
-    author: `Marcela Valdés Rojas`,
+    author: `Marcela Valdés`,
     description: `Clases particulares de francés en Talca`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
