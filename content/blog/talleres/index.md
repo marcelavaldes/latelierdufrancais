@@ -35,7 +35,7 @@ Correo electrónico: bonjour@latelierdufrancais.cl
 
 ## Próximos talleres a realizar
 
-**Taller intensivo de verano | nivel básico A.1.1**
+**Taller de verano | nivel básico A.1.1**
 - Programa: 4 sesiones | 2 horas semanales
 - Fecha: martes y jueves de enero
 - Horario: 19:00 a 20:00 h
