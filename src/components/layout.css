@@ -7,6 +7,7 @@ h6 {
   color: #72195a;
   font-family: Montserrat, sans-serif;
   word-wrap: normal;
+  text-align: left;
 }
 
 a {
@@ -15,8 +16,16 @@ a {
   box-shadow: none;
 }
 
+ul,
+ol {
+  margin-left: 1.75rem;
+}
+
 body {
   background-color: #c6d8ff;
+  font-family: "Hind", sans-serif;
+  font-size: 1.2em;
+  text-align: justify;
 }
 
 table {
