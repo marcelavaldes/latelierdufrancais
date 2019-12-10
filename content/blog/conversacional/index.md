@@ -7,7 +7,7 @@ description: Diferentes locaciones y diversas temáticas
 <br />
 
 Esta modalidad consiste en reunirnos en lugares públicos de la ciudad para poner a prueba
-nuestros conocimientos en contextos reales. Aquí aprenderemos **fórmulas rápidas y útiles.**
+nuestros conocimientos en contextos reales. En estas sesiones aprenderemos **fórmulas rápidas y útiles.**
 
 ## 📝 Metodología
 
@@ -41,9 +41,6 @@ Realizamos las sesiones cuando se requieran, procurando un aviso con al menos 48
 | horas | valor |
 | ------ | ------ |
 | 1 | $5.000 |
-
-**valores por más de una hora**
-Por favor escríbenos para encontrar la mejor opción.
 
 Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
 
