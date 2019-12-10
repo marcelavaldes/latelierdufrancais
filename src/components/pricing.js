@@ -2,6 +2,8 @@ import React, { useState, useCallback } from "react"
 import Slider from "rc-slider"
 import "rc-slider/assets/index.css"
 
+import Total from "./total"
+
 const Pricing = () => {
   const [personas, setPersonas] = useState(1)
   const [horas, setHoras] = useState(1)
@@ -50,12 +52,7 @@ const Pricing = () => {
           defaultValue={1}
         />
       </div>
-
-      <p>{`El valor de ${
-        horas === 1 ? "1 hora" : horas * 5 - 5 + " horas"
-      } para ${
-        personas === 1 ? "1 estudiante" : personas + " estudiantes"
-      } es de`}</p>
+      <Total horas={horas} personas={personas} precio={15000} />
     </>
   )
 }
