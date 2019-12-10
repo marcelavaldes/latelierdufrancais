@@ -9,13 +9,13 @@ description: Aprende a tu ritmo con clases personalizadas
 La cercanía de una clase particular te permitirá **aprender a tu ritmo** y en las mejores condiciones.
 Contamos con modalidades para individuos y grupos.
 
-## Metodología
+## 📝 Metodología
 
 - El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
 - Durante todas las sesiones se trabaja lectura, escritura y pronunciación.
 - Todas las sesiones se refuerzan con material complementario vía correo electrónico.
 
-## Horarios
+## 🕐 Horarios
 
 **Horario fijo:**
 Para quienes prefieren organizarse con anticipación, elaboramos un programa con *días y horarios establecidos.*
@@ -23,7 +23,7 @@ Para quienes prefieren organizarse con anticipación, elaboramos un programa con
 **Horario libre:**
 Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se requieran, procurando un aviso con al menos 12 horas de antelación.
 
-## Valores y medios de pago
+## 💰 Valores y medios de pago
 
 #### Individual
 

@@ -9,13 +9,13 @@ description: Sesiones flexibles según tus tiempos e intereses
 **La comodidad de tu lugar** te posibilitará aprender sin limitantes de distancia o geografía. 
 Contamos con modalidades para individuos y grupos.
 
-## Metodología
+## 📝 Metodología
 
 - El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
 - Durante todas las sesiones se trabaja lectura, escritura y pronunciación.
 - Todas las sesiones se refuerzan con material complementario vía correo electrónico.
 
-## Modalidades
+## ✅ Modalidades
 
 **1. Clase teórico-práctica**
 
@@ -25,7 +25,7 @@ Introducción de contenidos mediante diversos ejercicios prácticos para conocer
 
 Trabajo de contenidos a través de diferentes actividades con el objetivo de reforzar gramática, léxica y fonética.
 
-## Horarios
+## 🕐 Horarios
 
 **Horario fijo:**
 Para quienes prefieren organizarse con anticipación, elaboramos un programa con *días y horarios establecidos.*
@@ -33,7 +33,7 @@ Para quienes prefieren organizarse con anticipación, elaboramos un programa con
 **Horario libre:**
 Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se requieran, procurando un aviso con al menos 12 horas de antelación.
 
-## Valores y medios de pago
+## 💰 Valores y medios de pago
 
 #### Individual | Grupal
 
