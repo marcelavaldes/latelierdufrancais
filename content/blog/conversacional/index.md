@@ -14,7 +14,7 @@ nuestros conocimientos en contextos reales. Aquí aprenderemos **fórmulas rápi
 - El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
 - Durante las sesiones se trabaja gramática, léxica y fonética.
 - Todas las sesiones se refuerzan con material de apoyo impreso.
-- Las prácticas se realizan en lugares públicos de la ciudad ()*café, biblioteca, museo, librería, centro comercial, supermercado, restaurant, galería de arte, estación de trenes, terminal de buses, hospital, universidad, plaza o la calle)*
+- Las prácticas se realizan en lugares públicos de la ciudad (*café, biblioteca, museo, librería, centro comercial, supermercado, restaurant, galería de arte, estación de trenes, terminal de buses, hospital, universidad, plaza o la calle).*
 
 ## 🕐 Horarios
 
