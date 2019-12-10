@@ -1,7 +1,6 @@
 import React, { useState, useCallback } from "react"
-import Slider from "rc-slider"
-import "rc-slider/assets/index.css"
 
+import Slider from "./slider"
 import Total from "./total"
 
 const Pricing = () => {
@@ -29,29 +28,12 @@ const Pricing = () => {
 
   return (
     <>
-      <div style={{ margin: "50px auto" }}>
-        <h3>Personas</h3>
-        <Slider
-          min={1}
-          max={4}
-          marks={marksPersonas}
-          step={null}
-          onChange={handlePersonas}
-          defaultValue={1}
-        />
-      </div>
-
-      <div style={{ margin: "50px auto" }}>
-        <h3>Horas</h3>
-        <Slider
-          min={1}
-          max={3}
-          marks={marksHoras}
-          step={null}
-          onChange={handleHoras}
-          defaultValue={1}
-        />
-      </div>
+      <Slider
+        title={"Personas"}
+        marks={marksPersonas}
+        onChange={handlePersonas}
+      />
+      <Slider title={"Horas"} marks={marksHoras} onChange={handleHoras} />
       <Total horas={horas} personas={personas} precio={15000} />
     </>
   )
