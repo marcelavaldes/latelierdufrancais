@@ -93,6 +93,7 @@ class Layout extends React.Component {
           </div>
           <img
             src={lectora}
+            alt={""}
             width={240}
             style={{
               marginLeft: "auto",
