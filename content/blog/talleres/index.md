@@ -11,9 +11,9 @@ Se potencian sus esfuerzos, disminuye el tiempo invertido en las labores y aumen
 
 ## 📝 Metodología
 
-- ✔️ Durante todas las sesiones se trabaja lectura, escritura y pronunciación, con dinámicas para ejercitar los contenidos.
+✔️ Durante todas las sesiones se trabaja lectura, escritura y pronunciación, con dinámicas para ejercitar los contenidos.
 
-- ✔️ Todas las sesiones se refuerzan con material complementario vía correo electrónico.
+✔️ Todas las sesiones se refuerzan con material complementario vía correo electrónico.
 
 ## 💰 Valores y medios de pago
 
