@@ -1,18 +1,18 @@
 ---
-title: Talleres comunitarios
+title: 👪Talleres comunitarios
 date: "2019-12-01T22:12:03.284Z"
 description: Actividades multiculturales
 ---
 
 <br />
 
-El **trabajo en equipo** es una herramienta fundamental para aprender más y mejor.
-La interacción es lo que más hace aprender.
+**El trabajo en equipo** es una herramienta fundamental para aprender más y mejor.
+Se potencian sus esfuerzos, disminuye el tiempo invertido en las labores y aumenta la eficacia.
 
 ## 📝 Metodología
 
-- Durante todas las sesiones se trabaja lectura, escritura y pronunciación, con dinámicas para ejercitar los contenidos.
-- Todas las sesiones se refuerzan con material complementario vía correo electrónico.
+✔️ Durante todas las sesiones se trabaja lectura, escritura y pronunciación, con dinámicas para ejercitar los contenidos.
+✔️ Todas las sesiones se refuerzan con material complementario vía correo electrónico.
 
 ## 💰 Valores y medios de pago
 
@@ -28,7 +28,7 @@ Banco Estado N° 16732177
 
 Correo electrónico: bonjour@latelierdufrancais.cl
 
-## 🔍 Consideraciones
+## 📌 Consideraciones
 
 - Los valores incluyen material de estudio impreso y digital.
 - Una vez inscrita la persona, y transferido el dinero, no se consideran reembolsos o devoluciones, exceptuando casos por motivos de fuerza mayor.

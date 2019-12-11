@@ -1,5 +1,5 @@
 ---
-title: Lecciones presenciales
+title: 💁 Lecciones presenciales
 date: "2019-12-01T22:12:03.284Z"
 description: Aprende a tu ritmo con clases personalizadas
 ---
@@ -11,9 +11,9 @@ Contamos con modalidades para individuos y grupos.
 
 ## 📝 Metodología
 
-- El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
-- Durante todas las sesiones se trabaja lectura, escritura y pronunciación.
-- Todas las sesiones se refuerzan con material complementario vía correo electrónico.
+✔️ El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
+✔️ Durante todas las sesiones se trabaja lectura, escritura y pronunciación.
+✔️ Todas las sesiones se refuerzan con material complementario vía correo electrónico.
 
 ## 🕐 Horarios
 
@@ -25,7 +25,7 @@ Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se re
 
 ## 💰 Valores y medios de pago
 
-#### Individual
+#### 👤 Individual
 
 |horas|valor|
 |---|---|
@@ -33,7 +33,7 @@ Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se re
 |5 | $50.000  |
 |10 | $100.000 |
 
-#### Grupal
+#### 👥 Grupal
 
 **para 2 personas**
 
@@ -66,7 +66,7 @@ Banco Estado N° 16732177
 
 Correo electrónico: bonjour@latelierdufrancais.cl
 
-## Consideraciones
+## 📌 Consideraciones
 
 - Las tarifas son las mismas para todos los niveles.
 - Los valores incluyen material de estudio impreso y digital.
