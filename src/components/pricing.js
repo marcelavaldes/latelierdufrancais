@@ -13,6 +13,22 @@ const Pricing = () => {
   const handleHoras = useCallback(event => {
     setHoras(event)
   }, [])
+  const handleClick = async () => {
+    try {
+      let response = await fetch("/.netlify/functions/flow/create_order", {
+        method: "post",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          personas: personas,
+          horas: horas,
+        }),
+      })
+      let { redirect } = await response.json()
+      window.location.assign(redirect)
+    } catch (error) {
+      console.error(error)
+    }
+  }
 
   const marksPersonas = {
     1: { label: "1 persona", style: {} },
@@ -35,6 +51,7 @@ const Pricing = () => {
       />
       <Slider title={"Horas"} marks={marksHoras} onChange={handleHoras} />
       <Total horas={horas} personas={personas} precio={15000} />
+      <button onClick={handleClick}>:D</button>
     </>
   )
 }
