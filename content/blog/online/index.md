@@ -15,7 +15,7 @@ Contamos con modalidades para individuos y grupos.
 ✔️ Durante todas las sesiones se trabaja lectura, escritura y pronunciación.
 ✔️ Todas las sesiones se refuerzan con material complementario vía correo electrónico.
 
-## ✅ Modalidades
+## 📋 Modalidades
 
 **1. Clase teórico-práctica**
 
