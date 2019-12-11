@@ -1,11 +1,10 @@
 const express = require("express")
 const serverless = require("serverless-http")
-const bodyParser = require("body-parser")
 const FlowApi = require("@piducancore/flowcl-node-api-client")
 
 const app = express()
 app.use(express.json())
-app.use(bodyParser.urlencoded({ extended: false }))
+app.use(express.urlencoded({ extended: true }))
 
 const config = {
   apiKey: process.env.FLOW_API_KEY,
@@ -17,17 +16,19 @@ const config = {
 
 app.post("/.netlify/functions/flow/create_order", async (req, res) => {
   try {
+    console.log("Got body:", req.body)
+
     const optional = {
       rut: "9999999-9",
       otroDato: "otroDato",
+      email: "efuentealba@json.cl",
+      subject: "Pago de prueba",
+      amount: 5000,
     }
     // Prepara el arreglo de datos
     const params = {
       commerceOrder: Math.floor(Math.random() * (2000 - 1100 + 1)) + 1100,
-      subject: "Pago de prueba",
       currency: "CLP",
-      amount: 5000,
-      email: "efuentealba@json.cl",
       paymentMethod: 9,
       urlConfirmation: config.baseURL + "/payment_confirm",
       urlReturn: config.baseURL + "/result",
