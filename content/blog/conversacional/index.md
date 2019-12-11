@@ -1,5 +1,5 @@
 ---
-title: 🔈 Practiquemos en la ciudad
+title: 💬 Practiquemos en la ciudad
 date: "2019-12-01T22:12:03.284Z"
 description: Diferentes locaciones y diversas temáticas
 ---
