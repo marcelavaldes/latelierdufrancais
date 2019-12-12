@@ -1,6 +1,7 @@
 const express = require("express")
 const serverless = require("serverless-http")
 const FlowApi = require("@piducancore/flowcl-node-api-client")
+const getTotal = require("./getTotal")
 
 const app = express()
 app.use(express.json())
@@ -16,14 +17,16 @@ const config = {
 
 app.post("/.netlify/functions/flow/create_order", async (req, res) => {
   try {
-    console.log("Got body:", req.body)
+    const { personas, horas, email } = req.body
+    console.log(req.body)
 
+    const amount = getTotal({ personas, horas, precio: 15000 })
     const optional = {
       rut: "9999999-9",
       otroDato: "otroDato",
-      email: "efuentealba@json.cl",
-      subject: "Pago de prueba",
-      amount: 5000,
+      email: email,
+      subject: amount.resumen,
+      amount: amount.valorTotal,
     }
     // Prepara el arreglo de datos
     const params = {
@@ -55,6 +58,7 @@ app.post("/.netlify/functions/flow/create_order", async (req, res) => {
 
 app.post("/.netlify/functions/flow/payment_confirm", async (req, res) => {
   try {
+    console.log(req.body)
     let params = {
       token: req.body.token,
     }
@@ -62,7 +66,7 @@ app.post("/.netlify/functions/flow/payment_confirm", async (req, res) => {
     const flowApi = new FlowApi(config)
     let response = await flowApi.send(serviceName, params, "GET")
     //Actualiza los datos en su sistema
-    // console.log(response);
+    console.log(response)
     res.json(response)
   } catch (error) {
     res.json({ error })
@@ -71,6 +75,7 @@ app.post("/.netlify/functions/flow/payment_confirm", async (req, res) => {
 
 app.post("/.netlify/functions/flow/result", async (req, res) => {
   try {
+    console.log(req.body)
     let params = {
       token: req.body.token,
     }
@@ -85,33 +90,33 @@ app.post("/.netlify/functions/flow/result", async (req, res) => {
   }
 })
 
-app.post("/.netlify/functions/flow/create_email", async (req, res) => {
-  //Prepara los parámetros
-  const params = {
-    commerceOrder: Math.floor(Math.random() * (2000 - 1100 + 1)) + 1100,
-    subject: "pago prueba cobro Email",
-    currency: "CLP",
-    amount: 2000,
-    email: "efuentealba@json.cl",
-    paymentMethod: 9,
-    urlConfirmation: config.baseURL + "/payment_confirm",
-    urlReturn: config.baseURL + "/result",
-    forward_days_after: 1,
-    forward_times: 2,
-  }
-  const serviceName = "payment/createEmail"
-  try {
-    const flowApi = new FlowApi(config)
-
-    let response = await flowApi.send(serviceName, params, "POST")
-
-    res.json({
-      response,
-    })
-  } catch (error) {
-    console.log(error)
-    res.json({ error: error })
-  }
-})
+// app.post("/.netlify/functions/flow/create_email", async (req, res) => {
+//   //Prepara los parámetros
+//   const params = {
+//     commerceOrder: Math.floor(Math.random() * (2000 - 1100 + 1)) + 1100,
+//     subject: "pago prueba cobro Email",
+//     currency: "CLP",
+//     amount: 2000,
+//     email: "efuentealba@json.cl",
+//     paymentMethod: 9,
+//     urlConfirmation: config.baseURL + "/payment_confirm",
+//     urlReturn: config.baseURL + "/result",
+//     forward_days_after: 1,
+//     forward_times: 2,
+//   }
+//   const serviceName = "payment/createEmail"
+//   try {
+//     const flowApi = new FlowApi(config)
+//
+//     let response = await flowApi.send(serviceName, params, "POST")
+//
+//     res.json({
+//       response,
+//     })
+//   } catch (error) {
+//     console.log(error)
+//     res.json({ error: error })
+//   }
+// })
 
 module.exports.handler = serverless(app)
