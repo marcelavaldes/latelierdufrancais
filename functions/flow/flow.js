@@ -1,6 +1,8 @@
 const express = require("express")
 const serverless = require("serverless-http")
 const FlowApi = require("@piducancore/flowcl-node-api-client")
+const url = require("url")
+
 const getTotal = require("./getTotal")
 
 const app = express()
@@ -83,8 +85,13 @@ app.post("/.netlify/functions/flow/result", async (req, res) => {
     const flowApi = new FlowApi(config)
     let response = await flowApi.send(serviceName, params, "GET")
     //Actualiza los datos en su sistema
-    console.log(response)
-    res.json(response)
+    res.redirect(
+      url.format({
+        pathname: "/",
+        query: { status: response.status },
+      })
+    )
+    // res.json(response)
   } catch (error) {
     res.json({ error })
   }
