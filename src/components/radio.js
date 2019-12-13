@@ -1,5 +1,5 @@
 import React from "react"
-import { StaticQuery, graphql } from "gatsby"
+import { StaticQuery, graphql, Link } from "gatsby"
 import Checkbox from "rc-checkbox"
 import "rc-checkbox/assets/index.css"
 
@@ -13,6 +13,9 @@ const Radio = ({ title, modo, onChange }) => (
         ) {
           edges {
             node {
+              fields {
+                slug
+              }
               frontmatter {
                 title
                 shownInPricing
@@ -25,23 +28,31 @@ const Radio = ({ title, modo, onChange }) => (
     render={data => (
       <>
         <h3>{title}</h3>
-        <div>
-          {data.allMarkdownRemark.edges.map(({ node }, i) => {
-            return (
-              <p key={i}>
-                <label>
+        {data.allMarkdownRemark.edges.map(({ node }, i) => {
+          return (
+            <label
+              key={node.id}
+              style={{
+                cursor: "pointer",
+              }}
+            >
+              <div>
+                <p>
                   <Checkbox
                     defaultCheckedchecked
                     onChange={onChange}
                     value={i + 1}
                     checked={modo === i + 1}
                   />
-                  &nbsp; {node.frontmatter.title}
-                </label>
-              </p>
-            )
-          })}
-        </div>
+                  &nbsp; {node.frontmatter.title}{" "}
+                  <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                    (detalles)
+                  </Link>
+                </p>
+              </div>
+            </label>
+          )
+        })}
       </>
     )}
   />
