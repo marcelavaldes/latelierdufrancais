@@ -45,6 +45,7 @@ app.post("/.netlify/functions/flow/create_order", async (req, res) => {
     // Ejecuta el servicio
 
     let response = await flowApi.send(serviceName, params, "POST")
+    console.log(response)
 
     //Prepara url para redireccionar el browser del pagador
     redirect = response.url + "?token=" + response.token
@@ -83,7 +84,7 @@ app.post("/.netlify/functions/flow/result", async (req, res) => {
     const flowApi = new FlowApi(config)
     let response = await flowApi.send(serviceName, params, "GET")
     //Actualiza los datos en su sistema
-    // console.log(response);
+    console.log(response)
     res.json(response)
   } catch (error) {
     res.json({ error })
