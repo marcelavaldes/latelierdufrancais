@@ -67,7 +67,7 @@ const Pricing = () => {
         onChange={e => setEmail(e.target.value)}
         type={"text"}
       />
-      <Total horas={horas} personas={personas} precio={15000} />
+      <Total horas={horas} personas={personas} precio={modo} />
       <button onClick={handleClick}>:D</button>
     </>
   )

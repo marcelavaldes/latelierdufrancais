@@ -3,6 +3,13 @@ const discount = (n, p) => {
 }
 
 const getTotal = ({ personas, horas, precio }) => {
+  if (precio === 1) {
+    precio = 15000
+  } else if (precio === 2) {
+    precio = 12000
+  } else if (precio === 3) {
+    precio = 10000
+  }
   if (personas === 1) {
     if (horas === 1) {
       const descuento = discount(precio, 0)

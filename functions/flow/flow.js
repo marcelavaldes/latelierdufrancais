@@ -17,10 +17,9 @@ const config = {
 
 app.post("/.netlify/functions/flow/create_order", async (req, res) => {
   try {
-    const { personas, horas, email } = req.body
-    console.log(req.body)
+    const { modo, personas, horas, email } = req.body
 
-    const amount = getTotal({ personas, horas, precio: 15000 })
+    const amount = getTotal({ personas, horas, precio: modo })
     const optional = {
       rut: "9999999-9",
       otroDato: "otroDato",

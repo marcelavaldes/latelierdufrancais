@@ -2,7 +2,8 @@ import React from "react"
 import getTotal from "./getTotal"
 
 const Total = ({ horas, personas, precio }) => {
-  return <pre>{getTotal({ personas, horas, precio })}</pre>
+  const total = getTotal({ personas, horas, precio })
+  return <pre>{total.resumen}</pre>
 }
 
 export default Total
