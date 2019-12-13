@@ -1,6 +1,6 @@
 ---
 title: 💻 Lecciones online
-date: "2019-12-01T22:12:03.284Z"
+date: "2019-11-01T22:12:03.284Z"
 description: Sesiones flexibles según tus tiempos e intereses
 ---
 
@@ -30,22 +30,22 @@ Trabajo de contenidos a través de diferentes actividades con el objetivo de ref
 ## 🕐 Horarios
 
 **Horario fijo:**
-Para quienes prefieren organizarse con anticipación, elaboramos un programa con *días y horarios establecidos.*
+Para quienes prefieren organizarse con anticipación, elaboramos un programa con _días y horarios establecidos._
 
 **Horario libre:**
-Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se requieran, procurando un aviso con al menos 12 horas de antelación.
+Para aquellos con _tiempos más flexibles_, realizamos las sesiones cuando se requieran, procurando un aviso con al menos 12 horas de antelación.
 
 ## 💰 Valores y medios de pago
 
 #### Individual | Grupal
 
-|horas|valor|
-|---|---|
-|1 | $12.000 |
-|5 | $50.000  |
-|10 | $90.000 |
-|15 | $135.000 |
-|20 | $180.000 |
+| horas | valor     |
+| ----- | --------- |
+| 1     | \$12.000  |
+| 5     | \$50.000  |
+| 10    | \$90.000  |
+| 15    | \$135.000 |
+| 20    | \$180.000 |
 
 Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
 
