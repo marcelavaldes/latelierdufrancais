@@ -2,6 +2,7 @@
 title: 👆 Lecciones presenciales
 date: "2019-12-01T22:12:03.284Z"
 description: Aprende a tu ritmo con clases personalizadas
+shownInPricing: true
 ---
 
 <br />
@@ -20,38 +21,38 @@ Contamos con modalidades para individuos y grupos.
 ## 🕐 Horarios
 
 **Horario fijo:**
-Para quienes prefieren organizarse con anticipación, elaboramos un programa con *días y horarios establecidos.*
+Para quienes prefieren organizarse con anticipación, elaboramos un programa con _días y horarios establecidos._
 
 **Horario libre:**
-Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se requieran, procurando un aviso con al menos 12 horas de antelación.
+Para aquellos con _tiempos más flexibles_, realizamos las sesiones cuando se requieran, procurando un aviso con al menos 12 horas de antelación.
 
 ## 💰 Valores y medios de pago
 
 #### 👤 Individual
 
-|horas|valor|
-|---|---|
-|1 | $15.000 |
-|5 | $50.000  |
-|10 | $100.000 |
+| horas | valor     |
+| ----- | --------- |
+| 1     | \$15.000  |
+| 5     | \$50.000  |
+| 10    | \$100.000 |
 
 #### 👥 Grupal
 
 **para 2 personas**
 
-| horas | valor |
-| ------ | ------ |
-| 1 | $20.000 |
-| 5 | $70.000 |
-| 10 | $140.000 |
+| horas | valor     |
+| ----- | --------- |
+| 1     | \$20.000  |
+| 5     | \$70.000  |
+| 10    | \$140.000 |
 
 **para 3 personas**
 
-| horas | valor |
-| ------ | ------ |
-| 1 | $15.000 |
-| 5 | $60.000 |
-| 10 | $120.000 |
+| horas | valor     |
+| ----- | --------- |
+| 1     | \$15.000  |
+| 5     | \$60.000  |
+| 10    | \$120.000 |
 
 **grupos +3 personas**
 Por favor escríbenos para encontrar la mejor opción.
