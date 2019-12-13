@@ -8,12 +8,14 @@ const Radio = ({ title, modo, onChange }) => (
     query={graphql`
       query AllMarkdownTitles {
         allMarkdownRemark(
-          filter: { id: { nin: "c8690b52-3b0f-5c28-8283-746a5b957db6" } }
+          filter: { frontmatter: { shownInPricing: { eq: true } } }
+          sort: { fields: frontmatter___date, order: DESC }
         ) {
           edges {
             node {
               frontmatter {
                 title
+                shownInPricing
               }
             }
           }
