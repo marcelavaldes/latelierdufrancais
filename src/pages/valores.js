@@ -12,8 +12,8 @@ const PricingPage = ({ data, location }) => {
       <SEO title="Valores y medios de pago" />
       <h1>Valores</h1>
       <p>
-        En la tabla se muestra el <b>valor hora por persona</b> para las
-        distintas modalidades.
+        Mientras más horas adquieras, <b>obtén descuentos<b>. Ahorra dinero
+        por aprender junto a otros.
       </p>
       <Pricing />
     </Layout>
