@@ -38,38 +38,26 @@ const Radio = ({ title, modo, onChange }) => (
               key={node.fields.slug}
               style={{
                 cursor: "pointer",
+                // backgroundColor: modo === i + 1 ? "#96dbfa" : "white",
+                // padding: ".4em",
+                // borderRadius: "8px",
               }}
             >
-              <article
-                style={{
-                  backgroundColor: modo === i + 1 ? "#96dbfa" : "white",
-                  padding: ".4em",
-                  borderRadius: "8px",
-                }}
+              <h3
+                style={
+                  {
+                    // marginBottom: rhythm(1 / 4),
+                  }
+                }
               >
-                <header>
-                  <h3
-                    style={{
-                      marginBottom: rhythm(1 / 4),
-                    }}
-                  >
-                    <Checkbox
-                      defaultCheckedchecked
-                      onChange={onChange}
-                      value={i + 1}
-                      checked={modo === i + 1}
-                    />
-                    &nbsp; {node.frontmatter.title}
-                  </h3>
-                </header>
-                <section>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: `${node.frontmatter.description} <a class="detalles" href="${node.fields.slug}" style="box-shadow: none;">(detalles)</a>`,
-                    }}
-                  />
-                </section>
-              </article>
+                <Checkbox
+                  defaultCheckedchecked
+                  onChange={onChange}
+                  value={i + 1}
+                  checked={modo === i + 1}
+                />
+                &nbsp; {node.frontmatter.title}
+              </h3>
             </label>
           )
         })}
