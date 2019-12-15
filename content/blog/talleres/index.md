@@ -17,17 +17,7 @@ Se potencian sus esfuerzos, disminuye el tiempo invertido en las labores y aumen
 
 ## 💰 Valores y medios de pago
 
-Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
-
-Nombre: Marcela Valdés Rojas
-
-Rut: 16.732.177-1
-
-Tipo de cuenta: Cuenta Rut
-
-Banco Estado N° 16732177
-
-Correo electrónico: bonjour@latelierdufrancais.cl
+Revisa los valores de nuestras clases.
 
 ## 📌 Consideraciones
 

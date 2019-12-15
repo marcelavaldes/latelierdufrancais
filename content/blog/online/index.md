@@ -6,7 +6,7 @@ description: Sesiones flexibles según tus tiempos e intereses
 
 <br />
 
-**La comodidad de tu lugar** te posibilitará aprender sin limitantes de distancia o geografía. 
+**La comodidad de tu lugar** te posibilitará aprender sin limitantes de distancia o geografía.
 Contamos con modalidades para individuos y grupos.
 
 ## 📝 Metodología
@@ -37,27 +37,7 @@ Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se re
 
 ## 💰 Valores y medios de pago
 
-#### Individual | Grupal
-
-|horas|valor|
-|---|---|
-|1 | $12.000 |
-|5 | $50.000  |
-|10 | $90.000 |
-|15 | $135.000 |
-|20 | $180.000 |
-
-Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
-
-Nombre: Marcela Valdés Rojas
-
-Rut: 16.732.177-1
-
-Tipo de cuenta: Cuenta Rut
-
-Banco Estado N° 16732177
-
-Correo electrónico: bonjour@latelierdufrancais.cl
+Revisa los valores de nuestras clases.
 
 ## 📌 Consideraciones
 

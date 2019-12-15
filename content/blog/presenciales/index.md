@@ -27,46 +27,7 @@ Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se re
 
 ## 💰 Valores y medios de pago
 
-#### 👤 Individual
-
-|horas|valor|
-|---|---|
-|1 | $15.000 |
-|5 | $50.000  |
-|10 | $100.000 |
-
-#### 👥 Grupal
-
-**para 2 personas**
-
-| horas | valor |
-| ------ | ------ |
-| 1 | $20.000 |
-| 5 | $70.000 |
-| 10 | $140.000 |
-
-**para 3 personas**
-
-| horas | valor |
-| ------ | ------ |
-| 1 | $15.000 |
-| 5 | $60.000 |
-| 10 | $120.000 |
-
-**grupos +3 personas**
-Por favor escríbenos para encontrar la mejor opción.
-
-Se debe realizar el pago por el total de las horas requeridas antes de dar inicio a las clases, mediante transferencia bancaria al siguiente destinatario:
-
-Nombre: Marcela Valdés Rojas
-
-Rut: 16.732.177-1
-
-Tipo de cuenta: Cuenta Rut
-
-Banco Estado N° 16732177
-
-Correo electrónico: bonjour@latelierdufrancais.cl
+Revisa los valores de nuestras clases.
 
 ## 📌 Consideraciones
 
