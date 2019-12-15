@@ -54,8 +54,7 @@ class BlogIndex extends React.Component {
             </h3>
           </header>
           <section>
-            <p>Revisa nuestros precios para las distintas modalidades
-            y obtén descuentos aprendiendo junto a otros.</p>
+            <p>Revisa nuestros precios para las distintas modalidades</p>
 
           </section>
         </article>
