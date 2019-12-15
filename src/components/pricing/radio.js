@@ -32,14 +32,7 @@ const Radio = ({ title, modo, onChange }) => (
         <p>Selecciona la modalidad que más te acomoda:</p>
         {data.allMarkdownRemark.edges.map(({ node }, i) => {
           return (
-            <label
-              key={node.fields.slug}
-              style={{
-                cursor: "pointer",
-                // backgroundColor: modo === i + 1 ? "#96dbfa" : "white",
-                // padding: ".4em",
-              }}
-            >
+            <label key={node.fields.slug}>
               <h3>
                 <Checkbox
                   defaultCheckedchecked
