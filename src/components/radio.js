@@ -1,7 +1,6 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import Checkbox from "rc-checkbox"
-import { rhythm } from "../utils/typography"
 import "rc-checkbox/assets/index.css"
 
 const Radio = ({ title, modo, onChange }) => (
@@ -34,22 +33,14 @@ const Radio = ({ title, modo, onChange }) => (
         {data.allMarkdownRemark.edges.map(({ node }, i) => {
           return (
             <label
-              // key={node.id}
               key={node.fields.slug}
               style={{
                 cursor: "pointer",
                 // backgroundColor: modo === i + 1 ? "#96dbfa" : "white",
                 // padding: ".4em",
-                // borderRadius: "8px",
               }}
             >
-              <h3
-                style={
-                  {
-                    // marginBottom: rhythm(1 / 4),
-                  }
-                }
-              >
+              <h3>
                 <Checkbox
                   defaultCheckedchecked
                   onChange={onChange}

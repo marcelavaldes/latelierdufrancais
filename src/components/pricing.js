@@ -13,22 +13,29 @@ const Pricing = () => {
   const handleModo = useCallback(event => {
     setModo(event.target.value)
   }, [])
+
   const handlePersonas = useCallback(event => {
     setPersonas(event)
   }, [])
+
   const handleHoras = useCallback(event => {
     setHoras(event)
   }, [])
-  const handleClick = async () => {
+
+  const handleEmail = useCallback(event => {
+    setEmail(event.target.value)
+  }, [])
+
+  const handleSubmit = async () => {
     try {
       let response = await fetch("/.netlify/functions/flow/create_order", {
-        method: "post",
+        method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          modo: modo,
-          personas: personas,
-          horas: horas,
-          email: email,
+          modo,
+          personas,
+          horas,
+          email,
         }),
       })
       let { redirect } = await response.json()
@@ -64,13 +71,9 @@ const Pricing = () => {
         }}
         onChange={handleHoras}
       />
-      <input
-        value={email}
-        onChange={e => setEmail(e.target.value)}
-        type={"text"}
-      />
+      <input value={email} onChange={handleEmail} type={"text"} />
       <Total horas={horas} personas={personas} precio={modo} />
-      <button onClick={handleClick}>:D</button>
+      <button onClick={handleSubmit}>:D</button>
     </>
   )
 }

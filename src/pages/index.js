@@ -49,13 +49,15 @@ class BlogIndex extends React.Component {
               }}
             >
               <Link style={{ boxShadow: `none` }} to={"/valores"}>
-                💰 Valores y medios de pago
+                <span role="img" aria-label="money bag">
+                  💰
+                </span>
+                Valores y medios de pago
               </Link>
             </h3>
           </header>
           <section>
             <p>Revisa nuestros precios para las distintas modalidades</p>
-
           </section>
         </article>
       </Layout>

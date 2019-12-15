@@ -3,7 +3,7 @@ module.exports = {
     title: `🏡 L'atelier du français`,
     author: `Marcela Valdés`,
     description: `Clases particulares de francés en Talca`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://latelierdufrancais.cl/`,
     social: {
       instagram: `latelierdufrancais`,
     },
@@ -54,7 +54,6 @@ module.exports = {
         //trackingId: `ADD YOUR TRACKING ID HERE`,
       },
     },
-    `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
