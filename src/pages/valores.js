@@ -12,7 +12,7 @@ const PricingPage = ({ data, location }) => {
       <SEO title="Valores y medios de pago" />
       <h1>Valores</h1>
       <p>
-        Puedes reunirte con otras personas y dismunuir los costos de tus cursos. Mayor cantidad de clases es mayor economía.
+        Puedes reunirte con otras personas y disminuir los costos de tus cursos. Mayor cantidad de clases es mayor economía.
 
       </p>
       <Pricing />
