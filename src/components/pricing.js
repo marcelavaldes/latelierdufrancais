@@ -56,7 +56,7 @@ const Pricing = () => {
       />
       <Slider
         title={"Horas"}
-        description={"Escoje la cantidad de horas que se requieran:"}
+        description={"Escoge la cantidad de horas que se requieran:"}
         marks={{
           1: { label: "1 Hora", style: {} },
           2: { label: "5 Horas", style: {} },
