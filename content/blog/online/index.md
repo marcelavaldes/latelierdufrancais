@@ -1,5 +1,5 @@
 ---
-title: 💻 Lecciones online
+title: 💻 Clases online
 date: "2019-11-01T22:12:03.284Z"
 description: Sesiones flexibles según tus tiempos e intereses
 shownInPricing: true

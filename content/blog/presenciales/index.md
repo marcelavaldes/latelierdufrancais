@@ -1,5 +1,5 @@
 ---
-title: 🙋 Lecciones presenciales
+title: 🙋 clases presenciales
 date: "2019-12-01T22:12:03.284Z"
 description: Aprende a tu ritmo con clases personalizadas
 shownInPricing: true
