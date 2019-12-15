@@ -12,8 +12,8 @@ const PricingPage = ({ data, location }) => {
       <SEO title="Valores y medios de pago" />
       <h1>Valores</h1>
       <p>
-        Mientras más horas adquieras, <b>obtén descuentos<b>. Ahorra dinero
-        por aprender junto a otros.
+        Mientras más horas adquieras, <b>obtén descuentos<b> y ahorra dinero
+        si aprendes junto a familiares o amistades.
       </p>
       <Pricing />
     </Layout>
