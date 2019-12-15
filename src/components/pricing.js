@@ -45,6 +45,7 @@ const Pricing = () => {
       <Radio title={"Modalidades"} onChange={handleModo} modo={modo} />
       <Slider
         title={"Personas"}
+        description={"Ahorra dinero aprendiendo junto a familiares, amistades o con quien tu prefieras."}
         marks={{
           1: { label: "1 persona", style: {} },
           2: { label: "2 personas", style: {} },
@@ -55,6 +56,7 @@ const Pricing = () => {
       />
       <Slider
         title={"Horas"}
+        description={"Ahorra dinero aprendiendo junto a familiares, amistades o con quien tu prefieras."}
         marks={{
           1: { label: "1 Hora", style: {} },
           2: { label: "5 Horas", style: {} },
