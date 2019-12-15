@@ -30,6 +30,7 @@ const Radio = ({ title, modo, onChange }) => (
     render={data => (
       <>
         <h3>{title}</h3>
+        <p>Selecciona la modalidad que más te acomoda:</p>
         {data.allMarkdownRemark.edges.map(({ node }, i) => {
           return (
             <>
