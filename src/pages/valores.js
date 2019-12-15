@@ -12,8 +12,8 @@ const PricingPage = ({ data, location }) => {
       <SEO title="Valores y medios de pago" />
       <h1>Valores</h1>
       <p>
-        Mientras más horas adquieras, <b>obtienes descuentos</b>. Ahorra dinero
-        aprendiendo junto a familiares, amistades o quien tu prefieras.
+        Puedes reunirte con otras personas y dismunuir los costos de tus cursos. Mayor cantidad de clases es sinónimo de más economía.
+
       </p>
       <Pricing />
     </Layout>
