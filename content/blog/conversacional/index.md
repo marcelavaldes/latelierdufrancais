@@ -1,7 +1,8 @@
 ---
 title: 💬 Practiquemos en la ciudad
-date: "2019-12-01T22:12:03.284Z"
+date: "2019-10-01T22:12:03.284Z"
 description: Diferentes locaciones y diversas temáticas
+shownInPricing: true
 ---
 
 <br />
@@ -11,9 +12,9 @@ nuestros conocimientos en contextos reales. En estas sesiones aprenderemos **fó
 
 ## 📝 Metodología
 
- ✔️ El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
+✔️ El programa de los contenidos dependerá de los objetivos, conocimientos e intereses de cada persona.
 
- ✔️ Durante las sesiones se trabaja gramática, léxica y fonética.
+✔️ Durante las sesiones se trabaja gramática, léxica y fonética.
 
  ✔️ Todas las sesiones se refuerzan con material de apoyo impreso.
 

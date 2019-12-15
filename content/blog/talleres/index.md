@@ -1,6 +1,6 @@
 ---
 title: 👪 Talleres comunitarios
-date: "2019-12-01T22:12:03.284Z"
+date: "2019-09-01T22:12:03.284Z"
 description: Actividades multiculturales
 ---
 
@@ -27,17 +27,19 @@ Revisa los valores de nuestras clases.
 ## 📆 Próximos talleres a realizar
 
 **Taller de verano | nivel básico A.1.1**
+
 - Programa: 4 sesiones | 2 horas semanales
 - Fecha: martes y jueves de enero
 - Horario: 19:00 a 20:00 h
 - Inicio: 07 de enero 2020
 - Lugar: Café Lingo's | 1 Poniente 5 Norte #1610 Talca
-- Valor: $80.000 (incluye material de estudio impreso y digital)
+- Valor: \$80.000 (incluye material de estudio impreso y digital)
 
 **Cours d'été" | nivel básico A.1.2**
+
 - Programa: 4 sesiones | 2 horas semanales
 - Fecha: martes y jueves de enero
 - Horario: 18:00 a 19:00 h
 - Inicio: 07 de enero 2020
 - Lugar: Café Lingo's | 1 Poniente 5 Norte #1610 Talca
-- Valor: $60.000 (incluye material de estudio impreso y digital)
+- Valor: \$60.000 (incluye material de estudio impreso y digital)

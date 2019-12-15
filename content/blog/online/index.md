@@ -1,7 +1,8 @@
 ---
 title: 💻 Lecciones online
-date: "2019-12-01T22:12:03.284Z"
+date: "2019-11-01T22:12:03.284Z"
 description: Sesiones flexibles según tus tiempos e intereses
+shownInPricing: true
 ---
 
 <br />
@@ -30,10 +31,10 @@ Trabajo de contenidos a través de diferentes actividades con el objetivo de ref
 ## 🕐 Horarios
 
 **Horario fijo:**
-Para quienes prefieren organizarse con anticipación, elaboramos un programa con *días y horarios establecidos.*
+Para quienes prefieren organizarse con anticipación, elaboramos un programa con _días y horarios establecidos._
 
 **Horario libre:**
-Para aquellos con *tiempos más flexibles*, realizamos las sesiones cuando se requieran, procurando un aviso con al menos 12 horas de antelación.
+Para aquellos con _tiempos más flexibles_, realizamos las sesiones cuando se requieran, procurando un aviso con al menos 12 horas de antelación.
 
 ## 💰 Valores y medios de pago
 

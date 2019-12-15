@@ -34,13 +34,29 @@ class BlogIndex extends React.Component {
               <section>
                 <p
                   dangerouslySetInnerHTML={{
-                    __html: node.frontmatter.description || node.excerpt,
+                    __html: `${node.frontmatter.description} <a class="detalles" href="${node.fields.slug}" style="box-shadow: none;">(detalles)</a>`,
                   }}
                 />
               </section>
             </article>
           )
         })}
+        <article>
+          <header>
+            <h3
+              style={{
+                marginBottom: rhythm(1 / 4),
+              }}
+            >
+              <Link style={{ boxShadow: `none` }} to={"/valores"}>
+                💰 Valores y medios de pago
+              </Link>
+            </h3>
+          </header>
+          <section>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          </section>
+        </article>
       </Layout>
     )
   }

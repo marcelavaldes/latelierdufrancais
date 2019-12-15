@@ -7,7 +7,7 @@ h6 {
   color: #72195a;
   font-family: Montserrat, sans-serif;
   word-wrap: normal;
-  text-align: left;
+  /* text-align: left; */
 }
 
 a {
@@ -25,7 +25,7 @@ body {
   background-color: #c6d8ff;
   font-family: "Hind", sans-serif;
   font-size: 1.2em;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 table {
