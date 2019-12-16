@@ -1,15 +1,49 @@
-import React, { Fragment } from "react"
+import React from "react"
+import { Link } from "gatsby"
 
-import Header from "./header"
-import Main from "./main"
-import Footer from "./footer"
+import lectora from "../../content/assets/lectora.svg"
+// import "./layout.css"
 
-export default ({ location, title, children }) => {
+const Layout = ({ location, title, children }) => {
+  const rootPath = `${__PATH_PREFIX__}/`
+  let header
+
+  if (location.pathname === rootPath) {
+    header = (
+      <h1>
+        <Link to={`/`}>{title}</Link>
+      </h1>
+    )
+  } else {
+    header = (
+      <h3>
+        <Link to={`/`}>{title}</Link>
+      </h3>
+    )
+  }
   return (
-    <Fragment>
-      <Header location={location} title={title} />
-      <Main>{children}</Main>
-      <Footer />
-    </Fragment>
+    <div>
+      <div>
+        <header>{header}</header>
+        <main>{children}</main>
+      </div>
+      <footer>
+        <div>
+          © {new Date().getFullYear()}, Built with
+          {` `}
+          <a href="https://www.gatsbyjs.org">Gatsby</a>
+        </div>
+        <img
+          src={lectora}
+          alt={""}
+          width={240}
+          style={{
+            transform: "scaleX(-1)",
+          }}
+        />
+      </footer>
+    </div>
   )
 }
+
+export default Layout
