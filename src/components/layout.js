@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
-import lectora from "../../content/assets/lectora.svg"
+// import lectora from "../../content/assets/lectora.svg"
 
 const Layout = ({ location, title, children }) => {
   const isHome = location.pathname === `${__PATH_PREFIX__}/`
