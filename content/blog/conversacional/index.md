@@ -24,7 +24,7 @@ nuestros conocimientos en contextos reales. En estas sesiones aprenderemos **fó
 
 Realizamos las sesiones cuando se requieran, procurando un aviso con al menos 48 horas de antelación.
 
-## 💰 Valores y medios de pago
+## 💵 Valores y medios de pago
 
 Revisa los valores de nuestras clases.
 

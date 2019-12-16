@@ -26,7 +26,7 @@ Para quienes prefieren organizarse con anticipación, elaboramos un programa con
 **Horario libre:**
 Para aquellos con _tiempos más flexibles_, realizamos las sesiones cuando se requieran, procurando un aviso con al menos 12 horas de antelación.
 
-## 💰 Valores y medios de pago
+## 💵 Valores y medios de pago
 
 Revisa los valores de nuestras clases.
 

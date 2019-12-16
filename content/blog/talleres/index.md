@@ -15,7 +15,7 @@ Se potencian sus esfuerzos, disminuye el tiempo invertido en las labores y aumen
 
 ✔️ Todas las sesiones se refuerzan con material complementario vía correo electrónico.
 
-## 💰 Valores y medios de pago
+## 💵 Valores y medios de pago
 
 Revisa los valores de nuestras clases.
 
