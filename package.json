@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "latelierdufrancais",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "@piducancore",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/piducancore/latelierdufrancais/issues"
   },
   "dependencies": {
     "gatsby": "^2.18.4",
@@ -33,15 +33,14 @@
     "react-helmet": "^5.2.1",
     "react-responsive": "^8.0.1",
     "react-typography": "^0.16.19",
-    "typeface-hind": "^0.0.72",
-    "typeface-montserrat": "0.0.75",
+    "typeface-lato": "^0.0.75",
     "typography": "^0.16.19",
-    "typography-theme-wordpress-2016": "^0.16.19"
+    "typography-theme-noriega": "^0.16.19"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/piducancore/latelierdufrancais#readme",
   "keywords": [
     "gatsby"
   ],
@@ -49,7 +48,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/piducancore/latelierdufrancais.git"
   },
   "scripts": {
     "prebuild": "cd functions/flow && yarn install",

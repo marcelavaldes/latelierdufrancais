@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `L'atelier du français`,
+        short_name: `L'atelier du français`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#72195a`,
