@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import { rhythm } from "../utils/typography"
 
 class BlogIndex extends React.Component {
   render() {
@@ -20,14 +21,20 @@ class BlogIndex extends React.Component {
           return (
             <article key={node.fields.slug}>
               <header>
-                <h3>
-                  <Link to={node.fields.slug}>{title}</Link>
+                <h3
+                  style={{
+                    marginBottom: rhythm(1 / 4),
+                  }}
+                >
+                  <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                    {title}
+                  </Link>
                 </h3>
               </header>
               <section>
                 <p
                   dangerouslySetInnerHTML={{
-                    __html: `${node.frontmatter.description} <a class="detalles" href="${node.fields.slug}">(detalles)</a>`,
+                    __html: `${node.frontmatter.description} <a class="detalles" href="${node.fields.slug}" style="box-shadow: none;">(detalles)</a>`,
                   }}
                 />
               </section>
@@ -36,8 +43,12 @@ class BlogIndex extends React.Component {
         })}
         <article>
           <header>
-            <h3>
-              <Link to={"/valores"}>
+            <h3
+              style={{
+                marginBottom: rhythm(1 / 4),
+              }}
+            >
+              <Link style={{ boxShadow: `none` }} to={"/valores"}>
                 <span role="img" aria-label="money bag">
                   💰
                 </span>

@@ -5,7 +5,7 @@ import "rc-slider/assets/index.css"
 
 export default ({ title, description, marks, onChange }) => {
   return (
-    <div>
+    <div style={{ margin: "50px auto" }}>
       <h3>{title}</h3>
       <p>{description}</p>
       <Slider
