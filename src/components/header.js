@@ -1,21 +1,10 @@
-/** @jsx jsx */
-// import React from "react"
-import { jsx } from "theme-ui"
+import React from "react"
 import { Link } from "gatsby"
 
-const Header = ({ location, title }) => {
+export default ({ location, title }) => {
   const isHome = location.pathname === `${__PATH_PREFIX__}/`
   return (
-    <header
-      sx={{
-        // values referencing scales defined in a theme
-        color: "primary",
-        // bg: "lightgray",
-        fontFamily: "header",
-        // raw CSS value
-        // boxShadow: "0 0 1px 3px rgba(0, 0, 0, .125)",
-      }}
-    >
+    <header>
       {isHome ? (
         <h1>{title}</h1>
       ) : (
@@ -26,5 +15,3 @@ const Header = ({ location, title }) => {
     </header>
   )
 }
-
-export default Header

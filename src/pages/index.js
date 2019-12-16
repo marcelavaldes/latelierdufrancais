@@ -5,7 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-class IndexPage extends React.Component {
+class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
@@ -54,7 +54,7 @@ class IndexPage extends React.Component {
   }
 }
 
-export default IndexPage
+export default BlogIndex
 
 export const pageQuery = graphql`
   query {

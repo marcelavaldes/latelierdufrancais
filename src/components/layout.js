@@ -4,7 +4,7 @@ import Header from "./header"
 import Main from "./main"
 import Footer from "./footer"
 
-const Layout = ({ location, title, children }) => {
+export default ({ location, title, children }) => {
   return (
     <Fragment>
       <Header location={location} title={title} />
@@ -13,5 +13,3 @@ const Layout = ({ location, title, children }) => {
     </Fragment>
   )
 }
-
-export default Layout

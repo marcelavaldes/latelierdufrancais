@@ -1,5 +1,3 @@
 import React from "react"
 
-const Main = ({ children }) => <main>{children}</main>
-
-export default Main
+export default ({ children }) => <main>{children}</main>
