@@ -15,7 +15,7 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={siteTitle} />
-        <Bio />
+
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
@@ -60,6 +60,7 @@ class BlogIndex extends React.Component {
             <p>Revisa nuestros precios para las distintas modalidades</p>
           </section>
         </article>
+        <Bio />
       </Layout>
     )
   }
