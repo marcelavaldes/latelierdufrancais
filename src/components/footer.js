@@ -2,7 +2,7 @@ import React from "react"
 
 import lectora from "../../content/assets/lectora.svg"
 
-export default () => {
+const Footer = () => {
   return (
     <footer>
       <div>
@@ -21,3 +21,5 @@ export default () => {
     </footer>
   )
 }
+
+export default Footer
