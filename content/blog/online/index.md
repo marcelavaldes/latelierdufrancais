@@ -35,5 +35,5 @@ Revisa los valores de nuestras clases.
 - Las tarifas son las mismas para todos los niveles.
 - Los valores incluyen material de estudio digital.
 - Recordar que un aviso de 24 horas de antelación es requerido para cancelar una lección; de lo contrario se considerará realizada.
-- El horario disponible para las clases es lunes a viernes de 09:00 a 20:00 h
+- El horario disponible para las clases es de lunes a viernes de 09:00 a 20:00 h
 - Las sesiones se realizan vía Skype u otra plataforma según la preferencia de cada persona.
